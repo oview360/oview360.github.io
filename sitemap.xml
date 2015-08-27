@@ -11,15 +11,7 @@
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>https://www.oview.co/ov/n40db/</loc>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
   <loc>https://www.oview.co/ov/a48fx/</loc>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>https://www.oview.co/ov/x4fij/</loc>
   <changefreq>weekly</changefreq>
 </url>
 <url>
@@ -28,6 +20,14 @@
 </url>
 <url>
   <loc>https://www.oview.co/ov/74vnr/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.oview.co/ov/n40db/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.oview.co/ov/x4fij/</loc>
   <changefreq>weekly</changefreq>
 </url>
 <url>
